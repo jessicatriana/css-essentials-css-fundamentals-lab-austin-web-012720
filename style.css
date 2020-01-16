@@ -15,13 +15,12 @@ img {
 }
 
 nav {
-   margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 nav a { 
   padding: 10px;
   background: grey;
-  text-align: center;
+ 
   
 }
 
