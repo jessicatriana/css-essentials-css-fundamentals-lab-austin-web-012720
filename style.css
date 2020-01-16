@@ -18,6 +18,7 @@ nav a {
   padding: 10px;
   background: grey;
   text-align: center;
+  width: 50%;
 }
 
 figcaption {
