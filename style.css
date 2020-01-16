@@ -17,6 +17,7 @@ img {
 nav a { 
   padding: 10px;
   background: grey;
+  text-align: center;
 }
 
 figcaption {
